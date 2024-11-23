@@ -1,0 +1,6 @@
+{:paths ["src"]
+ :deps {org.clojure/clojure {:mvn/version "1.12.0"}
+        com.datomic/local {:mvn/version "1.0.285"}
+        ring/ring {:mvn/version "1.13.0"}
+        compojure/compojure {:mvn/version "1.7.1"}
+        hiccup/hiccup {:mvn/version "2.0.0-RC3"}}}
